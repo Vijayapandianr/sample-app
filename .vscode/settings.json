@@ -1,0 +1,7 @@
+{
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelScrollSensitivity": 0.45,
+    "editor.fastScrollSensitivity": 0.45,
+    "terminal.integrated.fastScrollSensitivity": 0.45,
+    "editor.scrollBeyondLastColumn": 1
+}
